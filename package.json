@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ariannzr/learn-git/issues"
   },
-  "homepage": "https://github.com/ariannzr/learn-git#readme"
+  "homepage": "https://github.com/ariannzr/learn-git#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
 }
